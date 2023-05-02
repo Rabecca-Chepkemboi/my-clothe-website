@@ -1,0 +1,107 @@
+@media(max-width:754px){
+    .mint1{
+        font-size: small;
+        display: grid;
+        grid-template-columns: repeat(2, 2fr);
+        background-color: rgb(133, 25, 235);
+        color: white;
+    }
+    .mint2{
+        width: 90%;
+    }
+    .mint3{
+        display: flex;
+        padding-left: 15%;
+    }
+    .mint4{
+        padding-left: 10%;
+        padding-top: 10%;
+    }
+    .mint5{
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    .mint6{
+        padding-left: 7%;
+    }
+    .mint7{
+        padding: 7px 24px;
+        background-color: rgb(241, 135, 153);
+        color: white;
+    }
+    .mint8{
+        text-align: center
+    }
+    .mint9{
+        display: flex;
+        padding-left: 23%;
+        font-size: 1em;
+    }
+    .mint10{
+        display: grid;
+        grid-template-columns: repeat(4, 4fr);
+    }
+    .wall1{
+        padding: 7px 28px;
+        background-color: rgb(241, 135, 153);
+        color: white;
+    }
+    .wall2{
+        padding-left: 40%;
+    }
+    .wall3{
+        display: grid;
+        grid-template-columns: repeat(2, 2fr);
+    }
+    .wall3{
+        width: 92%;
+    }
+    .wall4{
+        width: 100%;
+    }
+    /* .wall5{
+        background-image: url(/images/jeamg.png);
+    }
+    .wall6{
+        background-image: url(/images/jeam2.png);
+    }
+    .wall7{
+        background-image: url(/images/jeam3.png);
+    } */
+    .wall10{
+        font-size: 3em;
+        font-weight: bold;
+    }
+    .bulb1{
+        font-size: 1.5em;
+    }
+    .wall8{
+        text-align: center;
+    }
+    .bulb2{
+        display: grid;
+        grid-template-columns: repeat(4, 4fr);
+    }
+    .bub3{
+        margin-left: 60%;
+    }
+    .bulb4{
+        font-weight: bold;
+    }
+    .bulb5{
+        padding: 14px 58px;
+    }
+    .bulb6{
+        padding: 14px 48px;
+        background-color: rgb(241, 135, 153);
+        color: white;
+    }
+    .bulb7{
+        display: flex;
+    }
+    .bulb8{
+        display: flex;
+        color: rgb(23, 23, 192);
+        font-weight: bold;
+    }
+}
